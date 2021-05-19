@@ -1,11 +1,11 @@
-### Привет! 👋
+<!--### Привет! 👋
 ***
 
 * 
 * Со мной можно связаться при помощи:
     * Email: eugene.gordievsky@yandex.ru
     * Telegram: @eugenegord
-<!--
+
 **EugeneGordievsky/EugeneGordievsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ### 🔧 Стек технологий
 ***
 HTML, CSS, JavaScript, React.js, Node.js, Git, Express, MongoDB, Webpack
+-->
