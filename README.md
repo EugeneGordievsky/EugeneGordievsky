@@ -1,5 +1,10 @@
 ### Привет! 👋
+***
 
+* 
+* Со мной можно связаться при помощи:
+    * Email: eugene.gordievsky@yandex.ru
+    * Telegram: @eugenegord
 <!--
 **EugeneGordievsky/EugeneGordievsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
