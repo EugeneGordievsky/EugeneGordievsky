@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔧 Стек технологий   
+### 🔧 Стек технологий
+***
 HTML, CSS, JavaScript, React.js, Node.js, Git, Express, MongoDB, Webpack
