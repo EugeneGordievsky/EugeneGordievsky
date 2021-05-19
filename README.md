@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет! 👋
 
 <!--
 **EugeneGordievsky/EugeneGordievsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔧 Стек технологий   
+HTML, CSS, JavaScript, React.js, Node.js, Git, Express, MongoDB, Webpack
