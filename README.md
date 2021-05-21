@@ -33,5 +33,5 @@
  <img src='https://github.com/EugeneGordievsky/EugeneGordievsky/blob/b47d11427b36d28aa6abab35848488c0be780d9d/github.png' alt='Github logo'>
 </a>
 <a href='https://expressjs.com'>
- <img src='https://github.com/EugeneGordievsky/EugeneGordievsky/blob/b47d11427b36d28aa6abab35848488c0be780d9d/express.png' alt='Express logo'>
+ <img src='https://github.com/EugeneGordievsky/EugeneGordievsky/blob/b47d11427b36d28aa6abab35848488c0be780d9d/express.png' alt='Express logo' height='48px'>
 </a>
