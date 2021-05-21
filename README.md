@@ -12,7 +12,7 @@
 ***
 HTML, CSS, JavaScript, React.js, Node.js, Git, Express, MongoDB, Webpack
 
-![https://github.com/EugeneGordievsky/EugeneGordievsky/blob/1189344372a74cbff9174e080607a0396581b318/html.png](https://developer.mozilla.org/ru/docs/Web/HTML)
+![HTML](https://github.com/EugeneGordievsky/EugeneGordievsky/blob/1189344372a74cbff9174e080607a0396581b318/html.png)
 ![111693879-3b5b7280-8842-11eb-92d3-fcd5387a3663](https://developer.mozilla.org/ru/docs/Web/CSS)
 ![111693886-3c8c9f80-8842-11eb-9f4c-4a6c42b0ef30](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 ![111693890-3c8c9f80-8842-11eb-94f3-3446265729ef](https://ru.reactjs.org)
