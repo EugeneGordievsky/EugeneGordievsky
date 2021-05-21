@@ -12,7 +12,7 @@
 ***
 HTML, CSS, JavaScript, React.js, Node.js, Git, Express, MongoDB, Webpack
 
-!<a href=''>
+<a href='https://developer.mozilla.org/ru/docs/Web/HTML'>
    <img src='https://github.com/EugeneGordievsky/EugeneGordievsky/blob/1189344372a74cbff9174e080607a0396581b318/html.png' alt='HTML logo'>
  </a>
 
