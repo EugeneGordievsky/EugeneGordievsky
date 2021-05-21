@@ -12,7 +12,7 @@
 ***
 HTML, CSS, JavaScript, React.js, Node.js, Git, Express, MongoDB, Webpack
 
-!['./html.png'](https://developer.mozilla.org/ru/docs/Web/HTML)
+![./html.png](https://developer.mozilla.org/ru/docs/Web/HTML)
 ![111693879-3b5b7280-8842-11eb-92d3-fcd5387a3663](https://developer.mozilla.org/ru/docs/Web/CSS)
 ![111693886-3c8c9f80-8842-11eb-9f4c-4a6c42b0ef30](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 ![111693890-3c8c9f80-8842-11eb-94f3-3446265729ef](https://ru.reactjs.org)
