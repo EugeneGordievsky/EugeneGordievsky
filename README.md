@@ -10,17 +10,28 @@
 
 ### 🔧 Стек технологий
 ***
-HTML, CSS, JavaScript, React.js, Node.js, Git, Express, MongoDB, Webpack
 
 <a href='https://developer.mozilla.org/ru/docs/Web/HTML'>
-   <img src='https://github.com/EugeneGordievsky/EugeneGordievsky/blob/1189344372a74cbff9174e080607a0396581b318/html.png' alt='HTML logo'>
- </a>
-
-<!-- ![HTML](https://github.com/EugeneGordievsky/EugeneGordievsky/blob/1189344372a74cbff9174e080607a0396581b318/html.png)
-![111693879-3b5b7280-8842-11eb-92d3-fcd5387a3663](https://developer.mozilla.org/ru/docs/Web/CSS)
-![111693886-3c8c9f80-8842-11eb-9f4c-4a6c42b0ef30](https://developer.mozilla.org/ru/docs/Web/JavaScript)
-![111693890-3c8c9f80-8842-11eb-94f3-3446265729ef](https://ru.reactjs.org)
-![111693890-3c8c9f80-8842-11eb-94f3-3446265729ef](https://nodejs.org/en/about/)
-![111694077-75c50f80-8842-11eb-8bd0-3a2176af0385](https://www.mongodb.com)
-![111694829-71e5bd00-8843-11eb-9797-570f9088f938](https://github.com)
-![111693881-3bf40900-8842-11eb-8bcc-62ac7c44e8fb](https://expressjs.com) -->
+ <img src='https://github.com/EugeneGordievsky/EugeneGordievsky/blob/1189344372a74cbff9174e080607a0396581b318/html.png' alt='HTML logo'>
+</a>
+<a href='https://developer.mozilla.org/ru/docs/Web/CSS'>
+ <img src='https://github.com/EugeneGordievsky/EugeneGordievsky/blob/b47d11427b36d28aa6abab35848488c0be780d9d/css.png' alt='CSS logo'>
+</a>
+<a href='https://developer.mozilla.org/ru/docs/Web/JavaScript'>
+ <img src='https://github.com/EugeneGordievsky/EugeneGordievsky/blob/b47d11427b36d28aa6abab35848488c0be780d9d/javascript.png' alt='JavaScript logo'>
+</a>
+<a href='https://ru.reactjs.org'>
+ <img src='https://github.com/EugeneGordievsky/EugeneGordievsky/blob/b47d11427b36d28aa6abab35848488c0be780d9d/react.png' alt='React logo'>
+</a>
+<a href='https://nodejs.org/en/about'>
+ <img src='https://github.com/EugeneGordievsky/EugeneGordievsky/blob/b47d11427b36d28aa6abab35848488c0be780d9d/node.png' alt='Node logo'>
+</a>
+<a href='https://www.mongodb.com'>
+ <img src='https://github.com/EugeneGordievsky/EugeneGordievsky/blob/b47d11427b36d28aa6abab35848488c0be780d9d/mongodb.png' alt='Mongo DB logo'>
+</a>
+<a href='https://github.com'>
+ <img src='https://github.com/EugeneGordievsky/EugeneGordievsky/blob/b47d11427b36d28aa6abab35848488c0be780d9d/github.png' alt='Github logo'>
+</a>
+<a href='https://expressjs.com'>
+ <img src='https://github.com/EugeneGordievsky/EugeneGordievsky/blob/b47d11427b36d28aa6abab35848488c0be780d9d/express.png' alt='Express logo'>
+</a>
