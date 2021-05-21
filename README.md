@@ -20,4 +20,4 @@ HTML, CSS, JavaScript, React.js, Node.js, Git, Express, MongoDB, Webpack
 ![111694077-75c50f80-8842-11eb-8bd0-3a2176af0385](https://www.mongodb.com)
 ![111694829-71e5bd00-8843-11eb-9797-570f9088f938](https://github.com)
 ![111693881-3bf40900-8842-11eb-8bcc-62ac7c44e8fb](https://expressjs.com)
-
+<img width="103" alt="111696125-f97ffb80-8844-11eb-8c3f-31d5e2bea013" src="https://user-images.githubusercontent.com/67981010/119188068-d3641b00-ba82-11eb-87b5-28ccafaf1b63.png">
